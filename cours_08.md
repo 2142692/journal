@@ -10,6 +10,6 @@ Suggestions de sites où trouver des palettes de couleur:
 Explorer les thèmes dans l'outil de présentation numérique de votre choix. Choississez 3 thèmes que vous aimez bien et notez les dans votre journal. Vous pouvez aussi insérer des images de ces thèmes. 
 
 #### Outil de présentation:    
-![Palette de couleur](Images/vert.PNG) | ![Palette de couleur](Images/Smah bros.PNG) | ![Palette de couleur](Images/ultimate.PNG) 
+![Palette de couleur](Images/vert.PNG) | ![Palette de couleur](Images/Smahbros.PNG) | ![Palette de couleur](Images/ultimate.PNG) 
 --| -- | --
 Programmation | Smash Bros | Ultimate 
