@@ -4,6 +4,7 @@ Durée: 5 à 7 minutes
 
 ### Présentation
 Parlez du projet multimédia sélectionné. 
+Le jeu vidéo créé par nintendo, par Masahiro Sakurai, Super Smash Bros Ultimate. Un jeu de combats sur plateforme avec la majorité des personnages de Nintendo. 
 
 ### Carte heuristique
 Joindre la carte heuristique du projet. 
