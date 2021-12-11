@@ -16,9 +16,10 @@ Expliquer le déroulement de votre expérience grâce à un schéma narratif ou 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
+
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
-En
-
+En gros il y a une plateforme par terre qui scane et capte nos mouvements qui sont ensuite reproduit par l'hologramme en face. Aussi, le produit est entièrement modélisé en 3D des pied jusqu'à la tête. De plus, les effets sonores sont synchronisés avec les mouvements du personnage. Finalement il y aussi des effets spéciaux, dans lequel le programme va produire un effet selon le mouvement spécifique qu'on fait qui est relié au personnage.
 ### Étapes de réalisation
 Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
+Déjà il faut évaluer le budjet pour les droits d'auteurs des personnages ainsi que la création du produit. Concevoir un croquis du produit et développer une maquette. Réaliser avec toute les constituants du projet, le tester et le valider. Le présenter à la clientèle et voir si le produit les satisfaits.
